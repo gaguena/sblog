@@ -1,12 +1,15 @@
 # sblog #
 
 ## Build & Run ##
-
-```sh
+Build front
+``sh
 $ cd sblog
 $ cd src/main/webapp/app
 $ npm install
-$ cd ../../../
+```
+run sbt
+```sh
+$ cd sblog
 $ sbt
 > jetty:start
 >
