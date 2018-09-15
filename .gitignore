@@ -1,6 +1,6 @@
 .cache-main
 bin/
-src/main/webapp/app/node_module
+src/main/webapp/app/node_modules
 project/project
 project/target
 
