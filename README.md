@@ -2,7 +2,7 @@
 
 ## Build & Run ##
 Build front
-``sh
+```sh
 $ cd sblog
 $ cd src/main/webapp/app
 $ npm install
