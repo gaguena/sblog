@@ -11,7 +11,7 @@ run sbt
 ```sh
 $ cd sblog
 $ sbt
-> jetty:start
+> ~;jetty:stop;jetty:start
 >
 ```
 
